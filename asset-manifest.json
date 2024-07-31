@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ashishyadava/Blog-Master.git/static/css/main.b3264b96.css",
-    "main.js": "/ashishyadava/Blog-Master.git/static/js/main.f0dc54cc.js",
+    "main.js": "/ashishyadava/Blog-Master.git/static/js/main.bd2a2aa5.js",
     "index.html": "/ashishyadava/Blog-Master.git/index.html",
     "main.b3264b96.css.map": "/ashishyadava/Blog-Master.git/static/css/main.b3264b96.css.map",
-    "main.f0dc54cc.js.map": "/ashishyadava/Blog-Master.git/static/js/main.f0dc54cc.js.map"
+    "main.bd2a2aa5.js.map": "/ashishyadava/Blog-Master.git/static/js/main.bd2a2aa5.js.map"
   },
   "entrypoints": [
     "static/css/main.b3264b96.css",
-    "static/js/main.f0dc54cc.js"
+    "static/js/main.bd2a2aa5.js"
   ]
 }
