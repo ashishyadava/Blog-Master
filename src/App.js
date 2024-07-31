@@ -7,7 +7,7 @@ import NotFound from './NotFound';
 
 function App() {
   return (
-    <Router basename='/Blog-Master'>
+    <Router>
       <div className="App">
         <Navbar />
         <div className="content">

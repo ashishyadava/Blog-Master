@@ -20,13 +20,13 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://ashishyadava.github.io/Blog-Master",
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
-  "homepage": "https://github.com/ashishyadava/Blog-Master.git",
   "browserslist": {
     "production": [
       ">0.2%",
